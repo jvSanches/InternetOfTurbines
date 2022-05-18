@@ -1,3 +1,6 @@
 [submodule "Bluepill-Frequency-Interface"]
 	path = Bluepill-Frequency-Interface
 	url = https://github.com/jvSanches/Bluepill-Frequency-Interface.git
+[submodule "NodeMCU-Turbines-Server"]
+	path = NodeMCU-Turbines-Server
+	url = https://github.com/jvSanches/NodeMCU-Turbines-Server.git
