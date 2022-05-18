@@ -1,0 +1,3 @@
+[submodule "Bluepill-Frequency-Interface"]
+	path = Bluepill-Frequency-Interface
+	url = https://github.com/jvSanches/Bluepill-Frequency-Interface.git
